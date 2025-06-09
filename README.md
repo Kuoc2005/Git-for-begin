@@ -338,3 +338,6 @@ git pull --no-rebase origin main
 git fetch origin
 git reset --hard origin/main
 ```
+
+
+Cre:https://github.com/nhanlanguoi
